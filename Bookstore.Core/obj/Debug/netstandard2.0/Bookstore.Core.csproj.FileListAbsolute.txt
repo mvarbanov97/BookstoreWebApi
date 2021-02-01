@@ -1,0 +1,9 @@
+C:\Users\Momchil\source\repos\Bookstore.WebApi\Bookstore.Core\bin\Debug\netstandard2.0\Bookstore.Core.deps.json
+C:\Users\Momchil\source\repos\Bookstore.WebApi\Bookstore.Core\bin\Debug\netstandard2.0\Bookstore.Core.dll
+C:\Users\Momchil\source\repos\Bookstore.WebApi\Bookstore.Core\bin\Debug\netstandard2.0\Bookstore.Core.pdb
+C:\Users\Momchil\source\repos\Bookstore.WebApi\Bookstore.Core\obj\Debug\netstandard2.0\Bookstore.Core.csprojAssemblyReference.cache
+C:\Users\Momchil\source\repos\Bookstore.WebApi\Bookstore.Core\obj\Debug\netstandard2.0\Bookstore.Core.AssemblyInfoInputs.cache
+C:\Users\Momchil\source\repos\Bookstore.WebApi\Bookstore.Core\obj\Debug\netstandard2.0\Bookstore.Core.AssemblyInfo.cs
+C:\Users\Momchil\source\repos\Bookstore.WebApi\Bookstore.Core\obj\Debug\netstandard2.0\Bookstore.Core.csproj.CoreCompileInputs.cache
+C:\Users\Momchil\source\repos\Bookstore.WebApi\Bookstore.Core\obj\Debug\netstandard2.0\Bookstore.Core.dll
+C:\Users\Momchil\source\repos\Bookstore.WebApi\Bookstore.Core\obj\Debug\netstandard2.0\Bookstore.Core.pdb
